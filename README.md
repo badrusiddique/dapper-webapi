@@ -9,5 +9,3 @@ Topics covered.
 4. Simple and Clean Architecture ( Onion )
 5. Testing with Swagger.
 
-Read more here :
-https://www.codewithmukesh.com/blog/dapper-in-aspnet-core/
